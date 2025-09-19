@@ -32,3 +32,15 @@ Each entry marks a heartbeat in the evolution of the project.
 
 ---
 
+## Next Target — Day Two  
+**Goal:** Enable HTTPS and lock the shield.  
+- Wait for GitHub Pages SSL cert to issue.  
+- In Settings → Pages, tick **Enforce HTTPS**.  
+- Verify redirects:  
+  - `http://joinpulse.eu` → `https://joinpulse.eu`  
+  - `http://www.joinpulse.eu` → `https://joinpulse.eu`  
+
+**Outcome:** Domain secured with encryption. The pulse becomes untouchable.  
+
+---
+
