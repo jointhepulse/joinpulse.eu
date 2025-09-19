@@ -15,6 +15,7 @@ Each entry marks a heartbeat in the evolution of the project.
 - DNS records set (A, AAAA, MX, SPF, DKIM, DMARC).  
 - GitHub repo created.  
 - Landing page deployed with static background, red pulse button, and tagline.  
+- **Enforce HTTPS enabled** (site secured with SSL).  
 
 **Symbol:**  
 - The pulse circle.  
@@ -29,18 +30,16 @@ Each entry marks a heartbeat in the evolution of the project.
 - From words and visions to reality.  
 - Pulse One is no longer an idea — it beats in the open.  
 - The first signal sent.  
+- Shield raised on Day One — the site is already HTTPS-secured.  
 
 ---
 
 ## Next Target — Day Two  
-**Goal:** Enable HTTPS and lock the shield.  
-- Wait for GitHub Pages SSL cert to issue.  
-- In Settings → Pages, tick **Enforce HTTPS**.  
-- Verify redirects:  
-  - `http://joinpulse.eu` → `https://joinpulse.eu`  
-  - `http://www.joinpulse.eu` → `https://joinpulse.eu`  
+**Goal:** Start building the story outward.  
+- Share the site with a small trusted circle (3–5 people).  
+- Capture their first reactions for the log.  
+- Draft the second log entry: *“First witnesses beyond Roos.”*  
 
-**Outcome:** Domain secured with encryption. The pulse becomes untouchable.  
+**Outcome:** The pulse spreads from one to many.  
 
 ---
-
